@@ -1,4 +1,4 @@
-# dbsp
+# dbSandBox
 
 MySQL (v9.3) を Docker Compose で起動するローカル開発環境です。将来的に他のサービスを追加できる構成になっています。
 
